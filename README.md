@@ -29,7 +29,7 @@ Produce a professional political map of Argentina with:
 ---
 
 ## 🖼️ Preview
-![Map Preview](outputs/preview.png)
+![Map Preview](outputs/Mapa_Argentina.png)
 
 ---
 
